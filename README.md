@@ -6,24 +6,24 @@ Please complete the following problem and submit the solution as mentioned in th
 
 ## What we are looking for
 You will be sending us an exported project as a zipfile or tarball, which will be shared to our developers for a code review. During this review:
-•	We'll compile, build and run the project
-•	We'll evaluate the structure of your code, documentation, testability, readability and maintainability 
+* We'll compile, build and run the project
+*	We'll evaluate the structure of your code, documentation, testability, readability and maintainability 
 
 ## Events API
 The goal of this exercise is to build API's to support event management. Event is a program that the users would attend in the conference. Please find more about the high-level objective and request-response details for the API below.
 
 ## Objective
-•	Build APIs as requested
-o	CREATE
-o	FETCH SPECIFIC EVENT
-•	Handle Exceptions
-•	Write Unit Tests (For CREATE and others are optional)
+*	Build APIs as requested
+*	CREATE
+*	FETCH SPECIFIC EVENT
+*	Handle Exceptions
+*	Write Unit Tests (For CREATE and others are optional)
 
 ## Project Environment
-•	Java 8 and above (Note: have used Java 8 instead of Java 11)
-•	Maven
-•	H2 in-memory database (Added to the project, but feel to use any database you're comfortable with)
-•	PostMan (for testing)
+*	Java 8 and above (Note: have used Java 8 instead of Java 11)
+*	Maven
+*	H2 in-memory database (Added to the project, but feel to use any database you're comfortable with)
+*	PostMan (for testing)
  
 ## API Specification
 
