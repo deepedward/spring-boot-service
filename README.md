@@ -1,14 +1,5 @@
 # spring-boot-service
 
-
-## Directions
-Please complete the following problem and submit the solution as mentioned in the instructions below. The expectations are the code should be clean, legible, tested and fully functional an example of what you would consider production quality. Feel free to structure the package as you see fit and add any helper/ util methods as needed.
-
-## What we are looking for
-You will be sending us an exported project as a zipfile or tarball, which will be shared to our developers for a code review. During this review:
-* We'll compile, build and run the project
-*	We'll evaluate the structure of your code, documentation, testability, readability and maintainability 
-
 ## Events API
 The goal of this exercise is to build API's to support event management. Event is a program that the users would attend in the conference. Please find more about the high-level objective and request-response details for the API below.
 
